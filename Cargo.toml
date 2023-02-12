@@ -1,7 +1,10 @@
 [package]
+authors = ["Kristiyan Yochev <kris.yochev@gmail.com>"]
+description = "An emulator for the RP2040 Programmable IO"
+edition = "2021"
+license = "MIT"
 name = "rp2040-pio-emulator"
 version = "0.1.0"
-edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
